@@ -1,0 +1,1 @@
+window.fuzzylogic = require('fuzzylogic');
